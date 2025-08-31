@@ -1,0 +1,3 @@
+/* Tiny reset + allow Tailwind-like classes we used inline to just work as classNames */
+html, body, #root { height: 100%; }
+body { margin: 0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif; }
